@@ -1,0 +1,11 @@
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\bin\Debug\net8.0\ProjetoSistemaHospedagem.Common.deps.json
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\bin\Debug\net8.0\ProjetoSistemaHospedagem.Common.dll
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\bin\Debug\net8.0\ProjetoSistemaHospedagem.Common.pdb
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.AssemblyInfoInputs.cache
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.AssemblyInfo.cs
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.csproj.CoreCompileInputs.cache
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.dll
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\refint\ProjetoSistemaHospedagem.Common.dll
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ProjetoSistemaHospedagem.Common.pdb
+C:\Users\Luis Gustavo\Documents\PROGRAMAS-C#\ProjetoSistemaHospedagem\ProjetoSistemaHospedagem.Common\obj\Debug\net8.0\ref\ProjetoSistemaHospedagem.Common.dll

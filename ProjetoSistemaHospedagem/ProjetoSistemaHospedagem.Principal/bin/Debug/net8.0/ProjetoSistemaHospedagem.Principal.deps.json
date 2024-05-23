@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoSistemaHospedagem.Principal/1.0.0": {
+        "dependencies": {
+          "ProjetoSistemaHospedagem.Common": "1.0.0"
+        },
+        "runtime": {
+          "ProjetoSistemaHospedagem.Principal.dll": {}
+        }
+      },
+      "ProjetoSistemaHospedagem.Common/1.0.0": {
+        "runtime": {
+          "ProjetoSistemaHospedagem.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoSistemaHospedagem.Principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoSistemaHospedagem.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
